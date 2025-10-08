@@ -7,7 +7,7 @@ We further explore several **defense mechanisms** against such attacks, highligh
 ### For best results run this as a notebook in Google Colab.
 ---
 
-## 🚀 Features
+##  Features
 
 - **Attacks**
   - One-pixel attack (DE-based)
